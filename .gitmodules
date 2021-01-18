@@ -1,0 +1,3 @@
+[submodule "BoxLock_Firmware"]
+	path = BoxLock_Firmware
+	url = ./BoxLock_Firmware/
